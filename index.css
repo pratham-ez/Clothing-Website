@@ -1,0 +1,167 @@
+body{
+    background-color:white;
+    font-family: Poppins,sans-serif;
+
+}
+
+/* navbar */
+.navbar{
+  background-color: #222831;;
+}
+
+.logo{
+    color: aqua;
+    font-size: 3rem;
+}
+.nav-content{
+    text-align: right;
+}
+
+/* company name h2  */
+/* .company-name-heading{
+    text-align: center;
+    color: black;
+    background-color:white;
+    padding: 2.5rem;
+} */
+
+/* crousel */
+
+/* .img-1 , .img-2 , .img-3{
+    width: 100% ;
+    height: 560px;
+} */
+
+/* .carouselImg{
+    width: 10%;
+    height: 70%;
+} */
+
+
+/* trend-mote  */
+#trendNote{
+    background-color: white;
+    text-align: center;
+    padding: 3%;
+}
+
+
+/* kidsSectionH3  */
+#kidsSectionH3{
+    background-color:  #222831;
+    color: white;
+    text-align: center;
+}
+
+/* cardkids */
+
+#cardsKids{
+    /* padding: 3%; */
+    text-align: center;
+
+}
+
+.kidsImg{
+    width: 70%;
+    height: 70%;
+    position: relative;
+    left: 4.7rem;
+}
+
+.kids-1 , .kids-2 ,.kids-3{
+    padding: 3%;
+}
+
+/* cardswomens */
+#cardsWomens{
+    text-align: center;
+}
+
+.womensImg{
+    width: 70%;
+    height: 70%;
+    position: relative;
+    left: 4.5rem;
+}
+#womensSectionH3{
+    background-color: #222831;
+    color: white;
+    text-align: center;
+
+}
+
+.womens-1 , .womens-2 ,.womens-3{
+    padding: 3%;
+}
+
+
+/* cardsmens */
+
+#cardsMens{
+    text-align: center;
+}
+
+#mensSectionH3{
+    background-color: #222831;
+    color: white;
+    text-align: center;
+}
+
+.mensImg{
+    width: 70%;
+    height: 70%;
+    position: relative;
+    left: 4.5rem;
+}
+
+/* view more */
+#viewMore{
+    text-align: center;
+    padding: 2%;
+    background-color:#222831 ;
+}
+
+
+/* sports */
+#sportweartag{
+    text-align: center;
+    padding: 4%;
+}
+
+.sportsImg{
+    width: 50%;
+    height: 87.1%;
+    position: relative;
+    left: 11rem;
+}
+
+#sports{
+    margin: 3%;
+    text-align: center;
+}
+
+/* unisexual */
+
+#unisexualTag{
+    padding: 3%;
+    text-align: center;
+    background-color:#222831 ;
+    color: white;
+}
+
+#unisexual{
+    margin-left: 25% ;
+    padding: 3%;
+    
+}
+
+/* follow */
+#icon{
+    padding: 4% ;
+    text-align: center;
+}
+
+.icon_1 , .icon_2{
+    font-size: 3rem;
+    margin:0rem 2rem;
+}
